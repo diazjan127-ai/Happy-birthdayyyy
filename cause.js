@@ -1,22 +1,22 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You’re such a kind and wonderful person, and I feel lucky to share such a good bond with you. 💖", 
+        text: "Hi, first of all happy 29th monthsary love. I love youuu bleh, I hope you'll like this. 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "May your day be filled with love, laughter, and endless joy. 🌸 ", 
+        text: "To be honest I'm glad that we did it again, trials in life made us weak these past few months but still heto tayo still going strong laban lang kaya natin to hihi. 🌸 ", 
         emoji: "💗",
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Also I just want to say thank you for everything, and thank you for the love, and trust. I know I'm not perfect partner to you, and sometimes we don't understand each other but always here for you no matter what happen. ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are. Have the happiest day/year ahead! 🥳 ", 
+        text: "Stay the amazing girl you are okay? I love youuuu again happy 29th monthsary lovieee 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
